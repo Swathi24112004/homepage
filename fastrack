@@ -1,0 +1,60 @@
+<html>
+    <head>
+        <title>watches</title>
+    </head>
+     <body>
+        <h2>WRIST PIECE</h2><h7>by Fastrack & Sonata</h7><br><br>
+        <style>
+            img{height: 300px;
+            width:300px;}
+            h2{text-align: center;
+              padding-bottom: 30px;}
+        </style>
+        <img src="C:\Users\Lenovo\OneDrive\Pictures\Camera Roll\swathi\my watch.jpg">
+        <img src="C:\Users\Lenovo\OneDrive\Pictures\Camera Roll\swathi\my watch1.jpg">
+        <img src="C:\Users\Lenovo\OneDrive\Pictures\Camera Roll\swathi\my watch2.jpg">
+        <img src="C:\Users\Lenovo\OneDrive\Pictures\Camera Roll\swathi\my watch3.jpg"><br>
+        <h7>Brand    : Fastrack<br>
+            Price    : 1,575 INR<br>
+            Colour   : Green Dial Stainless Steel<br>
+            Warrenty : 1 year<br>
+        </h7>
+        <h7 style="color: rgb(26, 247, 26);">In stock</h7><br><br>
+        <img src="C:\Users\Lenovo\OneDrive\Pictures\Camera Roll\swathi\dpwatch1.jpg">
+        <img src="C:\Users\Lenovo\OneDrive\Pictures\Camera Roll\swathi\dpwatch3.jpg"><br>
+        <h7>Brand    : Fastrack<br>
+            Price    : 1,019 INR<br>
+            Colour   : Silver strap<br>
+            Warrenty : 2 years<br>
+        </h7>
+        <h7 style="color: red;">Out of stock</h7><br><br>
+        <img src="C:\Users\Lenovo\OneDrive\Pictures\Camera Roll\swathi\parwatch1.jpg">
+        <img src="C:\Users\Lenovo\OneDrive\Pictures\Camera Roll\swathi\parwatch3.jpg">
+        <img src="C:\Users\Lenovo\OneDrive\Pictures\Camera Roll\swathi\parwatch2.jpg"><br>
+        <h7>Brand    : Sonata<br>
+            Price    : 1,199 INR<br>
+            Colour   : Blue soft strap Circle dial<br>
+            Warrenty : 1 year<br>
+        </h7>
+        <h7 style="color: rgb(26, 247, 26);">In stock</h7><br><br>
+        <img src="C:\Users\Lenovo\OneDrive\Pictures\Camera Roll\swathi\menwatch3.jpg">
+        <img src="C:\Users\Lenovo\OneDrive\Pictures\Camera Roll\swathi\menwatch2.jpg">
+        <img src="C:\Users\Lenovo\OneDrive\Pictures\Camera Roll\swathi\menwatch1.jpg"><br>
+        <h7>Brand    : Sonata<br>
+            Price    : 1,459 INR<br>
+            Colour   : Gold & Silver stainless steel<br>
+            Features : Shows Day & Date<br>
+            Warrenty : 2 years<br>
+        </h7>
+        <h7 style="color:rgb(26, 247, 26);">In stock</h7><br><br>
+        <img src="C:\Users\Lenovo\OneDrive\Pictures\Camera Roll\swathi\menwatch6.jpg">
+        <img src="C:\Users\Lenovo\OneDrive\Pictures\Camera Roll\swathi\menwatch5.jpg">
+        <img src="C:\Users\Lenovo\OneDrive\Pictures\Camera Roll\swathi\menwatch4.jpg"><br>
+        <h7>Brand    : Sonata<br>
+            Price    : 2,225 INR<br>
+            Colour   : Black Resin<br>
+            Warrenty : 2 years<br>
+        </h7>
+        <h7 style="color: rgb(26, 247, 26);">In stock</h7><br><br>
+</body>
+</html>
